@@ -1,0 +1,4254 @@
+{
+  "claims": [
+    {
+      "claim_id": "CLM-010535",
+      "selector_label": "CLM-010535",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0711841204654346,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 41.2046543463381,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.27972733974456787,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-046740",
+      "selector_label": "CLM-046740",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.386036960985626,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 41.3223819301848,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.2756337821483612,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-043969",
+      "selector_label": "CLM-043969",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0438056125941136,
+        "Region / district": 7,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 26.9952087611225,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.24790437519550323,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-100428",
+      "selector_label": "CLM-100428",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 51,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 41.9876796714579,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.2409338653087616,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-046416",
+      "selector_label": "CLM-046416",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.112251882272416,
+        "Region / district": 41,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 41.0075290896646,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.23730912804603577,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-055333",
+      "selector_label": "CLM-055333",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 33.8288843258042,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.21320174634456635,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-092945",
+      "selector_label": "CLM-092945",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.539356605065024,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 44,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 38.7378507871321,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.20123934745788574,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-086548",
+      "selector_label": "CLM-086548",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0355920602327173,
+        "Region / district": 76,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 40.7200547570158,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.18103457987308502,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-020569",
+      "selector_label": "CLM-020569",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.24845995893224,
+        "Notification delay (days)": 0.0355920602327173,
+        "Region / district": 17,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 38.1054072553046,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.18073755502700806,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-065238",
+      "selector_label": "CLM-065238",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0492813141683778,
+        "Region / district": 44,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 56.8323066392882,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1783854365348816,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-024387",
+      "selector_label": "CLM-024387",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.731006160164271,
+        "Region / district": 41,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 23.0499657768652,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.17808178067207336,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-055698",
+      "selector_label": "CLM-055698",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.53388090349076,
+        "Region / district": 5,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 42.1300479123888,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.1720367670059204,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-029826",
+      "selector_label": "CLM-029826",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 38.1300479123888,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1676100641489029,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-038136",
+      "selector_label": "CLM-038136",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 1.11978097193703,
+        "Region / district": 72,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 36.1478439425051,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.16611580550670624,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-050642",
+      "selector_label": "CLM-050642",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0355920602327173,
+        "Region / district": 43,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 60.1560574948665,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1655457764863968,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-054493",
+      "selector_label": "CLM-054493",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0109514031485284,
+        "Notification delay (days)": 0.027378507871321,
+        "Region / district": 44,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 54.5297741273101,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1653677374124527,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-053760",
+      "selector_label": "CLM-053760",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.936344969199179,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 17,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 36.643394934976,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1653142124414444,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-037886",
+      "selector_label": "CLM-037886",
+      "summary": {
+        "Coverage type": "LUNAS",
+        "Grouped coverage type": "LUNAS",
+        "Policy tenure (days)": 0.0164271047227926,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 40.4845995893224,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.15983180701732635,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-095877",
+      "selector_label": "CLM-095877",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.306639288158795,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 10,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 50.1163586584531,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.15819767117500305,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-050780",
+      "selector_label": "CLM-050780",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.295687885010267,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 30.7405886379192,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1537846177816391,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-066811",
+      "selector_label": "CLM-066811",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0301163586584531,
+        "Region / district": 76,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 40.8049281314168,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.15267981588840485,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-084835",
+      "selector_label": "CLM-084835",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.298425735797399,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 33,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 35.3648186173854,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.15002544224262238,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-027205",
+      "selector_label": "CLM-027205",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.56331279945243,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 30,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 49.6235455167693,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.14818620681762695,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-087878",
+      "selector_label": "CLM-087878",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.583162217659138,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 33.8370978781656,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1467190831899643,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-025246",
+      "selector_label": "CLM-025246",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 50.1820670773443,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.14488469064235687,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-048859",
+      "selector_label": "CLM-048859",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 44,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 29.6591375770021,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.14392273128032684,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-093478",
+      "selector_label": "CLM-093478",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.29226557152635,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 17,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 64.0492813141684,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.14341747760772705,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-031596",
+      "selector_label": "CLM-031596",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.610540725530459,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 41,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 36.9144421629021,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.14323784410953522,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-103975",
+      "selector_label": "CLM-103975",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0301163586584531,
+        "Region / district": 5,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 56.9774127310062,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.14279694855213165,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-059847",
+      "selector_label": "CLM-059847",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 48.0136892539357,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1417095959186554,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-032446",
+      "selector_label": "CLM-032446",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.128678986995209,
+        "Notification delay (days)": 0.027378507871321,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 38.8008213552361,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.14124687016010284,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-053612",
+      "selector_label": "CLM-053612",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0054757015742642,
+        "Notification delay (days)": 0.0492813141683778,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 44.0164271047228,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.13982358574867249,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-038785",
+      "selector_label": "CLM-038785",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.1937029431896,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 69,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 34.6748802190281,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.13795942068099976,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-020786",
+      "selector_label": "CLM-020786",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.292950034223135,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 38.0561259411362,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.13483475148677826,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-008276",
+      "selector_label": "CLM-008276",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 5,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 15.4743326488706,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.13351762294769287,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-032097",
+      "selector_label": "CLM-032097",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0657084188911704,
+        "Notification delay (days)": 0.027378507871321,
+        "Region / district": 30,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 47.5811088295688,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.13297158479690552,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-015851",
+      "selector_label": "CLM-015851",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 21.7357973990418,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.13248910009860992,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-010671",
+      "selector_label": "CLM-010671",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.339493497604381,
+        "Region / district": 76,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 44.3805612594114,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.13063141703605652,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-056167",
+      "selector_label": "CLM-056167",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0711841204654346,
+        "Region / district": 4,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 47.0581793292266,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.13029421865940094,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-035684",
+      "selector_label": "CLM-035684",
+      "summary": {
+        "Coverage type": "ASITUR KILOMETRO 0",
+        "Grouped coverage type": "ASISTENCIA",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 33.6481861738535,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.13020603358745575,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-014677",
+      "selector_label": "CLM-014677",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 8.0684462696783,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 46.2642026009583,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.12979944050312042,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-028914",
+      "selector_label": "CLM-028914",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.09445585215606,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 30,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 36.3668720054757,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.12901759147644043,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-056742",
+      "selector_label": "CLM-056742",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.744695414099932,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 17,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 37.8891170431212,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1263226717710495,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-077661",
+      "selector_label": "CLM-077661",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0383299110198494,
+        "Region / district": 65,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 40.6160164271047,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1249459907412529,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-045786",
+      "selector_label": "CLM-045786",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.210814510609172,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 44,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 59.5756331279945,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1245221197605133,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-061009",
+      "selector_label": "CLM-061009",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.438056125941136,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 46.1875427789186,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.1242019534111023,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-062362",
+      "selector_label": "CLM-062362",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.32238193018481,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 20,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 34.3956194387406,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.12402831017971039,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-064477",
+      "selector_label": "CLM-064477",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0109514031485284,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 21.7659137577002,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.12382996082305908,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-058926",
+      "selector_label": "CLM-058926",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.867898699520876,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 1,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 54.0835044490075,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.12348876893520355,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-014593",
+      "selector_label": "CLM-014593",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 65.6262833675565,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.12180396914482117,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-057212",
+      "selector_label": "CLM-057212",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0109514031485284,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 23.211498973306,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.12124180793762207,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-054817",
+      "selector_label": "CLM-054817",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.08418891170431,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 54,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 37.7686516084873,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.11861246824264526,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-025062",
+      "selector_label": "CLM-025062",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 6,
+        "Policyholder customer tier": "Bronce D",
+        "Driver age": 31.813826146475,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.11819037050008774,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-061618",
+      "selector_label": "CLM-061618",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.95140314852841,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 4,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 35.1238877481177,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.11817464232444763,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-019357",
+      "selector_label": "CLM-019357",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0355920602327173,
+        "Region / district": 5,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 35.4934976043806,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.11737135797739029,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-043510",
+      "selector_label": "CLM-043510",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.843258042436687,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 32.145106091718,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.11732413619756699,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-029930",
+      "selector_label": "CLM-029930",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.16974674880219,
+        "Notification delay (days)": 0.0876112251882272,
+        "Region / district": 44,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 38.4093086926763,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.11677239835262299,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-060090",
+      "selector_label": "CLM-060090",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.98699520876112,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 37.2156057494867,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.11529185622930527,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-003731",
+      "selector_label": "CLM-003731",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.320328542094456,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 5,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 31.2060232717317,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.1140279546380043,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-044415",
+      "selector_label": "CLM-044415",
+      "summary": {
+        "Coverage type": "ASITUR KILOMETRO 0",
+        "Grouped coverage type": "ASISTENCIA",
+        "Policy tenure (days)": 0.0082135523613963,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 76,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 34.6748802190281,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.11320758610963821,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-104693",
+      "selector_label": "CLM-104693",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.862422997946612,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 36.2026009582478,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.11214593052864075,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-018799",
+      "selector_label": "CLM-018799",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.843258042436687,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 30,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 33.2758384668036,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES PESADOS"
+      },
+      "fraud_probability": 0.11046150326728821,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-020927",
+      "selector_label": "CLM-020927",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.48186173853525,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 29.1252566735113,
+        "Payment method": "SEMESTRAL 1ER PAGO EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1095869317650795,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-096976",
+      "selector_label": "CLM-096976",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.23408624229979,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 33.264887063655,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MOTOCICLETAS"
+      },
+      "fraud_probability": 0.10930980741977692,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-106249",
+      "selector_label": "CLM-106249",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.865160848733744,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 17,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 35.7481177275839,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.1089271605014801,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-055232",
+      "selector_label": "CLM-055232",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.706365503080082,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 41,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 41.7467488021903,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.10844160616397858,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-061341",
+      "selector_label": "CLM-061341",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.34428473648186,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 10,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 26.0616016427105,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.10836166888475418,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-049263",
+      "selector_label": "CLM-049263",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 76,
+        "Policyholder customer tier": "Nuevo",
+        "Driver age": 64.1259411362081,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.10819470137357712,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-044818",
+      "selector_label": "CLM-044818",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0054757015742642,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 5,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 18.3600273785079,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.10817795991897583,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-014336",
+      "selector_label": "CLM-014336",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 67,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 55.501711156742,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.10814481228590012,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-028715",
+      "selector_label": "CLM-028715",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.881587953456537,
+        "Region / district": 41,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 23.7563312799452,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.10711134225130081,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-057460",
+      "selector_label": "CLM-057460",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0766598220396988,
+        "Notification delay (days)": 0.054757015742642,
+        "Region / district": 54,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 47.3702943189596,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.10678879916667938,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-021555",
+      "selector_label": "CLM-021555",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 25,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 26.3846680355921,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.1063016727566719,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-030934",
+      "selector_label": "CLM-030934",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 43.3292265571526,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.10453607141971588,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-013614",
+      "selector_label": "CLM-013614",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.37713894592745,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 60.5612594113621,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.10449264943599701,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-058376",
+      "selector_label": "CLM-058376",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 49.8617385352498,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.10329384356737137,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-039640",
+      "selector_label": "CLM-039640",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0191649555099247,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 69,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 32.517453798768,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.102605439722538,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-067270",
+      "selector_label": "CLM-067270",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0301163586584531,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 1,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 41.6399726214921,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.10197299718856812,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-061571",
+      "selector_label": "CLM-061571",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.210814510609172,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 43,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 34.5434633812457,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.10175786167383194,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-038708",
+      "selector_label": "CLM-038708",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0027378507871321,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 41,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 25.1553730321698,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.1008320152759552,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-058000",
+      "selector_label": "CLM-058000",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.175222450376454,
+        "Region / district": 67,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 18.2724161533196,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.09996047616004944,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-058062",
+      "selector_label": "CLM-058062",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.180698151950719,
+        "Region / district": 67,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 18.2724161533196,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.09996047616004944,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-058063",
+      "selector_label": "CLM-058063",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0,
+        "Notification delay (days)": 0.180698151950719,
+        "Region / district": 67,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 18.2724161533196,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.09996047616004944,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-092425",
+      "selector_label": "CLM-092425",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.04859685147159,
+        "Notification delay (days)": 0.26009582477755,
+        "Region / district": 5,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 41.6290212183436,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004188665188848972,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-046555",
+      "selector_label": "CLM-046555",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 12.7227926078029,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 70,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 69.9219712525667,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.004189321771264076,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-004121",
+      "selector_label": "CLM-004121",
+      "summary": {
+        "Coverage type": "CONDUCTOR",
+        "Grouped coverage type": "VIAJEROS",
+        "Policy tenure (days)": 20.7748117727584,
+        "Notification delay (days)": 0.0,
+        "Region / district": 2,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 41.6509240246407,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00418933155015111,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-104254",
+      "selector_label": "CLM-104254",
+      "summary": {
+        "Coverage type": "LUNAS",
+        "Grouped coverage type": "LUNAS",
+        "Policy tenure (days)": 0.0465434633812457,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 37.1170431211499,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004189361352473497,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-068823",
+      "selector_label": "CLM-068823",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.744695414099932,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 51.5427789185489,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041894130408763885,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-005840",
+      "selector_label": "CLM-005840",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.63860369609856,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 6,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 37.4401095140315,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004189650062471628,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-000809",
+      "selector_label": "CLM-000809",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.12936344969199,
+        "Notification delay (days)": 0.0657084188911704,
+        "Region / district": 67,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 64.7008898015058,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004189735744148493,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-047185",
+      "selector_label": "CLM-047185",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 7.34839151266256,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 68.8021902806297,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.004190027713775635,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-009159",
+      "selector_label": "CLM-009159",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.28952772073922,
+        "Notification delay (days)": 0.0602327173169062,
+        "Region / district": 4,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 66.0150581793292,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004190034233033657,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-088595",
+      "selector_label": "CLM-088595",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.02190280629706,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 6,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 65.1115674195756,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004190394189208746,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-097167",
+      "selector_label": "CLM-097167",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.65639972621492,
+        "Notification delay (days)": 0.0,
+        "Region / district": 7,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 51.6002737850787,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004190686624497175,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-086012",
+      "selector_label": "CLM-086012",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.82340862422998,
+        "Notification delay (days)": 0.0958247775496235,
+        "Region / district": 3,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 51.4140999315537,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004190766252577305,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-030816",
+      "selector_label": "CLM-030816",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.02532511978097,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 24,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 57.0759753593429,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041907778941094875,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-037225",
+      "selector_label": "CLM-037225",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.97946611909651,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 4,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 49.3388090349076,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004190811887383461,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-109640",
+      "selector_label": "CLM-109640",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.232717316906229,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 4,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 29.845311430527,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.0041908519342541695,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-008135",
+      "selector_label": "CLM-008135",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 5.00205338809035,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 44,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 32.2409308692676,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004190925508737564,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-080661",
+      "selector_label": "CLM-080661",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 1.65913757700205,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 17,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 54.3463381245722,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004190957173705101,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-012118",
+      "selector_label": "CLM-012118",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.69130732375086,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 60.145106091718,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004191006999462843,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-007263",
+      "selector_label": "CLM-007263",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 8.59137577002053,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 65,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 77.1115674195756,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004191544372588396,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-017313",
+      "selector_label": "CLM-017313",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.561259411362081,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 46.8911704312115,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004191625863313675,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-060570",
+      "selector_label": "CLM-060570",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.10403832991102,
+        "Notification delay (days)": 0.0410677618069815,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 55.0855578370979,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004192075692117214,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-027038",
+      "selector_label": "CLM-027038",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 1.66461327857632,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 24,
+        "Policyholder customer tier": "Nuevo Plus",
+        "Driver age": 64.8542094455852,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004192352760583162,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-056389",
+      "selector_label": "CLM-056389",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 9.66187542778919,
+        "Notification delay (days)": 0.0,
+        "Region / district": 65,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 33.6427104722793,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004192642867565155,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-071818",
+      "selector_label": "CLM-071818",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.40657084188912,
+        "Notification delay (days)": 0.0711841204654346,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 63.1375770020534,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00419288594275713,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-020926",
+      "selector_label": "CLM-020926",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.25462012320329,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 68.1204654346338,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004192927852272987,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-086743",
+      "selector_label": "CLM-086743",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.12183436002738,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 4,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 33.719370294319,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004193009342998266,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-089935",
+      "selector_label": "CLM-089935",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.94934976043806,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 9,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 58.6995208761123,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.00419310899451375,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-066278",
+      "selector_label": "CLM-066278",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.769336071184121,
+        "Notification delay (days)": 0.158795345653662,
+        "Region / district": 7,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 27.5427789185489,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004193351604044437,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-012358",
+      "selector_label": "CLM-012358",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.2498288843258,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 67,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 39.813826146475,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.0041934116743505,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-055034",
+      "selector_label": "CLM-055034",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.17385352498289,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 65,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 43.6550308008214,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004193558823317289,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-024855",
+      "selector_label": "CLM-024855",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.53388090349076,
+        "Notification delay (days)": 0.0574948665297741,
+        "Region / district": 6,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 44.4407939767283,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004193564876914024,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-020288",
+      "selector_label": "CLM-020288",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.06502395619439,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 4,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 48.5201916495551,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004193933214992285,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-003408",
+      "selector_label": "CLM-003408",
+      "summary": {
+        "Coverage type": "LUNAS",
+        "Grouped coverage type": "LUNAS",
+        "Policy tenure (days)": 0.128678986995209,
+        "Notification delay (days)": 0.0,
+        "Region / district": 9,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 66.5790554414785,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004194234032183886,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-100079",
+      "selector_label": "CLM-100079",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.90828199863107,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 2,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 54.839151266256,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004194297827780247,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-043683",
+      "selector_label": "CLM-043683",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.31690622861054,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 4,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 56.3340177960301,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004194672219455242,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-102983",
+      "selector_label": "CLM-102983",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.41683778234086,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 67,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 67.9780971937029,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004194740206003189,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-074345",
+      "selector_label": "CLM-074345",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 10.2450376454483,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 57.2347707049966,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004194757901132107,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-079915",
+      "selector_label": "CLM-079915",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.292950034223135,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 40,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 56.1560574948665,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041951644234359264,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-078781",
+      "selector_label": "CLM-078781",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.00547570157426,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 6,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 41.596167008898,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MOTOCICLETAS"
+      },
+      "fraud_probability": 0.00419533159583807,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-054648",
+      "selector_label": "CLM-054648",
+      "summary": {
+        "Coverage type": "LUNAS",
+        "Grouped coverage type": "LUNAS",
+        "Policy tenure (days)": 6.40383299110199,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 20,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 44.9883641341547,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041961465030908585,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-027364",
+      "selector_label": "CLM-027364",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 2.90759753593429,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 10,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 28.6926762491444,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004196435213088989,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-108171",
+      "selector_label": "CLM-108171",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.41409993155373,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 50.1519507186858,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004196642432361841,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-056071",
+      "selector_label": "CLM-056071",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.717316906228611,
+        "Notification delay (days)": 0.0985626283367557,
+        "Region / district": 70,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 56.8925393566051,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "VEHÍCULOS INDUSTRIALES"
+      },
+      "fraud_probability": 0.004197174683213234,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-044308",
+      "selector_label": "CLM-044308",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.54757015742642,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 25,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 44.0219028062971,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00419724453240633,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-010595",
+      "selector_label": "CLM-010595",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.73237508555784,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 67,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 51.2689938398357,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004197338130325079,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-048869",
+      "selector_label": "CLM-048869",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.75154004106776,
+        "Notification delay (days)": 0.0711841204654346,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 58.611909650924,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004197445698082447,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-109788",
+      "selector_label": "CLM-109788",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.29774127310062,
+        "Notification delay (days)": 0.101300479123888,
+        "Region / district": 2,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 30.5106091718001,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.0041974694468081,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-101750",
+      "selector_label": "CLM-101750",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.48870636550308,
+        "Notification delay (days)": 0.0602327173169062,
+        "Region / district": 3,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 66.0971937029432,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004197597503662109,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-083422",
+      "selector_label": "CLM-083422",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.936344969199179,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 28.104038329911,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004197611007839441,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-028703",
+      "selector_label": "CLM-028703",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.50034223134839,
+        "Notification delay (days)": 0.0,
+        "Region / district": 67,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 53.3004791238878,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.004198348615318537,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-032695",
+      "selector_label": "CLM-032695",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.94182067077344,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 24,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 47.7672826830938,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004198555834591389,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-025619",
+      "selector_label": "CLM-025619",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 8.50650239561944,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 35.5783709787817,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004198894836008549,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-008410",
+      "selector_label": "CLM-008410",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.81519507186858,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce Plus",
+        "Driver age": 72.290212183436,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004199114162474871,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-026350",
+      "selector_label": "CLM-026350",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 3.37577002053388,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 43,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 60.0465434633813,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004199586808681488,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-054469",
+      "selector_label": "CLM-054469",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 1.4154688569473,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 91.6139630390144,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004199756309390068,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-058432",
+      "selector_label": "CLM-058432",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 1.92197125256674,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 68,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 92.1204654346338,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004199756309390068,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-101295",
+      "selector_label": "CLM-101295",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.39288158795346,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 56.331279945243,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004200151190161705,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-018254",
+      "selector_label": "CLM-018254",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.66050650239562,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 50.3682409308693,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.00420032674446702,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-018083",
+      "selector_label": "CLM-018083",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.44626967830253,
+        "Notification delay (days)": 0.0574948665297741,
+        "Region / district": 66,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 40.0574948665298,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0042003486305475235,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-064024",
+      "selector_label": "CLM-064024",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 8.55578370978782,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 51.6988364134155,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004200651776045561,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-012267",
+      "selector_label": "CLM-012267",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 3.81930184804928,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 66,
+        "Policyholder customer tier": "Nuevo",
+        "Driver age": 49.201916495551,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004200675990432501,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-033958",
+      "selector_label": "CLM-033958",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.917180013689254,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 55.542778918549,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004200994968414307,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-038016",
+      "selector_label": "CLM-038016",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.06913073237509,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 56.5119780971937,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004201114643365145,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-027809",
+      "selector_label": "CLM-027809",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.33333333333333,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 44.2299794661191,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004201222211122513,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-098409",
+      "selector_label": "CLM-098409",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.21218343600274,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 70,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 48.7501711156742,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004201667383313179,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-102181",
+      "selector_label": "CLM-102181",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.92813141683778,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 63.1457905544148,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004201773088425398,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-041605",
+      "selector_label": "CLM-041605",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.188911704312115,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 4,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 49.9383983572895,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004201872739940882,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-070751",
+      "selector_label": "CLM-070751",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.722792607802875,
+        "Notification delay (days)": 0.0,
+        "Region / district": 67,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 16.2847364818617,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.004201920703053474,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-097811",
+      "selector_label": "CLM-097811",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.65297741273101,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 53.6071184120466,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004202064126729965,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-007470",
+      "selector_label": "CLM-007470",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.69062286105407,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 67,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 62.9623545516769,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202223848551512,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-097598",
+      "selector_label": "CLM-097598",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 3.94524298425736,
+        "Notification delay (days)": 0.802190280629706,
+        "Region / district": 5,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 33.8206707734429,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202383570373058,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-083036",
+      "selector_label": "CLM-083036",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.8870636550308,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 66,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 61.3114305270363,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004202415235340595,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-036567",
+      "selector_label": "CLM-036567",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.3305954825462,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 66.0862422997947,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202491603791714,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-084195",
+      "selector_label": "CLM-084195",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.59890485968515,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 65,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 72.6899383983573,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.0042026410810649395,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-003978",
+      "selector_label": "CLM-003978",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.865160848733744,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 20,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 39.7973990417522,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.004202680662274361,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-046840",
+      "selector_label": "CLM-046840",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 9.59890485968515,
+        "Notification delay (days)": 0.0191649555099247,
+        "Region / district": 20,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 46.9459274469542,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202702548354864,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-047975",
+      "selector_label": "CLM-047975",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 5.01300479123888,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 70,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 55.4989733059548,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202709067612886,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-029333",
+      "selector_label": "CLM-029333",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 7.93429158110883,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 4,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 53.6728268309377,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202770534902811,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-050579",
+      "selector_label": "CLM-050579",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.939082819986311,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 69,
+        "Policyholder customer tier": "Nuevo",
+        "Driver age": 70.1848049281314,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0042028166353702545,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-071511",
+      "selector_label": "CLM-071511",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.16016427104723,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 34.8446269678303,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004202892538160086,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-042474",
+      "selector_label": "CLM-042474",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.18412046543463,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 68.3696098562628,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004203698597848415,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-079576",
+      "selector_label": "CLM-079576",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.65571526351814,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 7,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 41.3579739904175,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00420370465144515,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-016683",
+      "selector_label": "CLM-016683",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.69541409993155,
+        "Notification delay (days)": 0.0383299110198494,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 43.337440109514,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00420380849391222,
+      "flagged": true
+    },
+    {
+      "claim_id": "CLM-053283",
+      "selector_label": "CLM-053283",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 20.9993155373032,
+        "Notification delay (days)": 0.0848733744010952,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 62.9158110882957,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041883885860443115,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-047141",
+      "selector_label": "CLM-047141",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 12.8733744010951,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce D",
+        "Driver age": 67.9890485968515,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004188245628029108,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-019820",
+      "selector_label": "CLM-019820",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.21423682409309,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 65,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 55.3347022587269,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004187923390418291,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-029883",
+      "selector_label": "CLM-029883",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.73100616016427,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 36.6543463381246,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004187851678580046,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-096235",
+      "selector_label": "CLM-096235",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.37782340862423,
+        "Notification delay (days)": 0.0930869267624914,
+        "Region / district": 6,
+        "Policyholder customer tier": "Plata Plus",
+        "Driver age": 56.6680355920602,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004187708720564842,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-054505",
+      "selector_label": "CLM-054505",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.336755646817248,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 53.2238193018481,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004187637474387884,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-062409",
+      "selector_label": "CLM-062409",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 10.9979466119097,
+        "Notification delay (days)": 0.0383299110198494,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 56.3778234086242,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004187629092484713,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-007582",
+      "selector_label": "CLM-007582",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.235455167693361,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 69,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 64.1013004791239,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004187487997114658,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-100832",
+      "selector_label": "CLM-100832",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 1.47022587268994,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 6,
+        "Policyholder customer tier": "Nuevo",
+        "Driver age": 42.425735797399,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004187444224953651,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-073991",
+      "selector_label": "CLM-073991",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.82751540041068,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 43.5564681724846,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004187014885246754,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-056701",
+      "selector_label": "CLM-056701",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.101300479123888,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 57.1088295687885,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.0041866968385875225,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-100619",
+      "selector_label": "CLM-100619",
+      "summary": {
+        "Coverage type": "OCUPANTE-CICLOMOTOR",
+        "Grouped coverage type": "VIAJEROS",
+        "Policy tenure (days)": 2.8829568788501,
+        "Notification delay (days)": 0.0520191649555099,
+        "Region / district": 76,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 20.0438056125941,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.004186201840639114,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-101282",
+      "selector_label": "CLM-101282",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.48049281314168,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 25,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 51.8521560574949,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004186173900961876,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-099546",
+      "selector_label": "CLM-099546",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.82067077344285,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 48.9774127310062,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004186106380075216,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-076989",
+      "selector_label": "CLM-076989",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.624229979466119,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 24,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 50.8062970568104,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004185909871011972,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-010804",
+      "selector_label": "CLM-010804",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.55920602327173,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 64,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 34.0369609856263,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.0041852714493870735,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-068045",
+      "selector_label": "CLM-068045",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.1088295687885,
+        "Notification delay (days)": 0.0,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 54.0123203285421,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004184609744697809,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-068607",
+      "selector_label": "CLM-068607",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.848733744010951,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 63,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 63.0225872689938,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004184568300843239,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-064299",
+      "selector_label": "CLM-064299",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.51882272416153,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 24,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 38.8008213552361,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004184466786682606,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-110009",
+      "selector_label": "CLM-110009",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 9.91649555099247,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 3,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 79.4496919917865,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004184234421700239,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-047308",
+      "selector_label": "CLM-047308",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.83915126625599,
+        "Notification delay (days)": 0.0684462696783025,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 64.3915126625599,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "VEHÍCULOS INDUSTRIALES"
+      },
+      "fraud_probability": 0.0041841547936201096,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-074002",
+      "selector_label": "CLM-074002",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 5.72484599589322,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 22,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 54.4613278576318,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004183741752058268,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-085068",
+      "selector_label": "CLM-085068",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.588637919233402,
+        "Notification delay (days)": 0.0355920602327173,
+        "Region / district": 24,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 52.4900752908967,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004183574579656124,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-061515",
+      "selector_label": "CLM-061515",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.328542094455852,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 57.0595482546201,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.004183564800769091,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-011036",
+      "selector_label": "CLM-011036",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.933607118412047,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 55.5208761122519,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.00418313592672348,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-110829",
+      "selector_label": "CLM-110829",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 12.1560574948665,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 7,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 71.5509924709103,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004183095879852772,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-080362",
+      "selector_label": "CLM-080362",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.28678986995209,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 59.5838466803559,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004182943142950535,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-042873",
+      "selector_label": "CLM-042873",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 5.24845995893224,
+        "Notification delay (days)": 0.0246406570841889,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 38.7104722792608,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004182899370789528,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-042385",
+      "selector_label": "CLM-042385",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.18685831622177,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 33.9520876112252,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.004182847682386637,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-059101",
+      "selector_label": "CLM-059101",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.405201916495551,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 41,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 56.4572210814511,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004182557575404644,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-092454",
+      "selector_label": "CLM-092454",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.91786447638604,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 56.8213552361396,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004182557575404644,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-092948",
+      "selector_label": "CLM-092948",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 8.84052019164956,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 73.2128678986995,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004182557575404644,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-093861",
+      "selector_label": "CLM-093861",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 18.1656399726215,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 69,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 80.2683093771389,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004182219970971346,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-021825",
+      "selector_label": "CLM-021825",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.40657084188912,
+        "Notification delay (days)": 0.0903490759753593,
+        "Region / district": 3,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 37.6344969199179,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004182156641036272,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-076166",
+      "selector_label": "CLM-076166",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 1.66187542778919,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 30.8062970568104,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004181497264653444,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-019914",
+      "selector_label": "CLM-019914",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.60780287474333,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 47.1375770020534,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004181318450719118,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-063148",
+      "selector_label": "CLM-063148",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 8.59137577002053,
+        "Notification delay (days)": 0.0,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 40.3696098562628,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004181280732154846,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-042865",
+      "selector_label": "CLM-042865",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.49555099247091,
+        "Notification delay (days)": 0.0438056125941136,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 68.4298425735797,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004181255120784044,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-091078",
+      "selector_label": "CLM-091078",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.783025325119781,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 47.1485284052019,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004180997144430876,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-091862",
+      "selector_label": "CLM-091862",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.971937029431896,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 47.337440109514,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004180997144430876,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-095351",
+      "selector_label": "CLM-095351",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.06297056810404,
+        "Notification delay (days)": 0.20807665982204,
+        "Region / district": 66,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 38.6858316221766,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004180770833045244,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-009921",
+      "selector_label": "CLM-009921",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.55304585900069,
+        "Notification delay (days)": 0.027378507871321,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 70.5571526351814,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "CAMIONES MAS DE 3,5 TN DE PMA"
+      },
+      "fraud_probability": 0.004180483054369688,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-077659",
+      "selector_label": "CLM-077659",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.81930184804928,
+        "Notification delay (days)": 0.0136892539356605,
+        "Region / district": 66,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 77.1745379876797,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004180252552032471,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-088050",
+      "selector_label": "CLM-088050",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 26.2888432580424,
+        "Notification delay (days)": 0.120465434633812,
+        "Region / district": 6,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 56.9363449691992,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004180165473371744,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-084531",
+      "selector_label": "CLM-084531",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.125941136208077,
+        "Notification delay (days)": 0.0301163586584531,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce D",
+        "Driver age": 57.4483230663929,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.0041799689643085,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-050983",
+      "selector_label": "CLM-050983",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 5.65913757700205,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 66.8199863107461,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004179629497230053,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-039583",
+      "selector_label": "CLM-039583",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.53730321697468,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 7,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 57.5906913073238,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004179482348263264,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-039599",
+      "selector_label": "CLM-039599",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.39767282683094,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 53.5797399041752,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004179478622972965,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-109893",
+      "selector_label": "CLM-109893",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.49555099247091,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 69,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 75.9917864476386,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004179305862635374,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-052787",
+      "selector_label": "CLM-052787",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.194387405886379,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 55.5674195756331,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004179133102297783,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-073230",
+      "selector_label": "CLM-073230",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.503764544832307,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 24,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 55.8302532511978,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004178863018751144,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-086663",
+      "selector_label": "CLM-086663",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 4.34770704996578,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 54.4476386036961,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004178651142865419,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-082183",
+      "selector_label": "CLM-082183",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 11.3757700205339,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 25,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 31.8110882956879,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041784802451729774,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-057541",
+      "selector_label": "CLM-057541",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.31211498973306,
+        "Notification delay (days)": 0.172484599589322,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce D",
+        "Driver age": 32.9062286105407,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041778236627578735,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-072033",
+      "selector_label": "CLM-072033",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 10.4832306639288,
+        "Notification delay (days)": 0.0355920602327173,
+        "Region / district": 4,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 37.8288843258042,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004177385475486517,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-040299",
+      "selector_label": "CLM-040299",
+      "summary": {
+        "Coverage type": "LUNAS",
+        "Grouped coverage type": "LUNAS",
+        "Policy tenure (days)": 0.758384668035592,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 41,
+        "Policyholder customer tier": "Bronce Plus",
+        "Driver age": 31.4770704996578,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004177327733486891,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-045203",
+      "selector_label": "CLM-045203",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 5.98494182067077,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 25,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 41.6673511293635,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041771549731493,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-056299",
+      "selector_label": "CLM-056299",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.87474332648871,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 78.8555783709788,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.004176722839474678,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-031143",
+      "selector_label": "CLM-031143",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.0164271047227926,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 3,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 55.3511293634497,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.004176560323685408,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-003366",
+      "selector_label": "CLM-003366",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.2217659137577,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 6,
+        "Policyholder customer tier": "Bronce D",
+        "Driver age": 70.7953456536619,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004176423419266939,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-044819",
+      "selector_label": "CLM-044819",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.695414099931554,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 42.6584531143053,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041763996705412865,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-087262",
+      "selector_label": "CLM-087262",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.20396988364134,
+        "Notification delay (days)": 0.0109514031485284,
+        "Region / district": 24,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 57.0321697467488,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.00417582830414176,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-109038",
+      "selector_label": "CLM-109038",
+      "summary": {
+        "Coverage type": "ASITUR KILOMETRO 0",
+        "Grouped coverage type": "ASISTENCIA",
+        "Policy tenure (days)": 0.0136892539356605,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce Plus",
+        "Driver age": 28.7446954140999,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004175824578851461,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-064655",
+      "selector_label": "CLM-064655",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.9315537303217,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 6,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 41.2977412731006,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.004175715614110231,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-067033",
+      "selector_label": "CLM-067033",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 10.7789185489391,
+        "Notification delay (days)": 0.027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 44.4681724845996,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES Y CAMIONES LIGEROS"
+      },
+      "fraud_probability": 0.004175679758191109,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-002922",
+      "selector_label": "CLM-002922",
+      "summary": {
+        "Coverage type": "ROBO",
+        "Grouped coverage type": "ROBO",
+        "Policy tenure (days)": 1.74674880219028,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 5,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 62.8227241615332,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.0041755191050469875,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-086923",
+      "selector_label": "CLM-086923",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.34633812457221,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce C",
+        "Driver age": 44.2792607802875,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TRACTO-CAMIONES"
+      },
+      "fraud_probability": 0.004175330977886915,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-081938",
+      "selector_label": "CLM-081938",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 9.67008898015058,
+        "Notification delay (days)": 0.0054757015742642,
+        "Region / district": 65,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 44.5886379192334,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004174779634922743,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-037323",
+      "selector_label": "CLM-037323",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 7.17590691307324,
+        "Notification delay (days)": 0.0,
+        "Region / district": 5,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 29.5167693360712,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004174545872956514,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-083955",
+      "selector_label": "CLM-083955",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 10.8336755646817,
+        "Notification delay (days)": 0.0082135523613963,
+        "Region / district": 4,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 72.0438056125941,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00417447229847312,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-050846",
+      "selector_label": "CLM-050846",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 3.25256673511294,
+        "Notification delay (days)": 0.0,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 40.8104038329911,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004174256231635809,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-031601",
+      "selector_label": "CLM-031601",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.50513347022587,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 67,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 21.8891170431212,
+        "Payment method": "SEMESTRAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004174224566668272,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-054332",
+      "selector_label": "CLM-054332",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 10.0561259411362,
+        "Notification delay (days)": 0.0438056125941136,
+        "Region / district": 7,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 71.0499657768652,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004174004774540663,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-064759",
+      "selector_label": "CLM-064759",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 12.1998631074606,
+        "Notification delay (days)": 0.027378507871321,
+        "Region / district": 7,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 45.3004791238878,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004174004774540663,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-060120",
+      "selector_label": "CLM-060120",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.960985626283368,
+        "Notification delay (days)": 0.0,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 60.9363449691992,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "MONOVOLUMEN"
+      },
+      "fraud_probability": 0.004173873923718929,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-067632",
+      "selector_label": "CLM-067632",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.8227241615332,
+        "Notification delay (days)": 0.0520191649555099,
+        "Region / district": 6,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 57.8945927446954,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.004173687659204006,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-039169",
+      "selector_label": "CLM-039169",
+      "summary": {
+        "Coverage type": "DAÑOS PROPIOS",
+        "Grouped coverage type": "DAÑOS PROPIOS",
+        "Policy tenure (days)": 0.884325804243669,
+        "Notification delay (days)": 0.0383299110198494,
+        "Region / district": 69,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 51.7563312799453,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00417358661070466,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-049599",
+      "selector_label": "CLM-049599",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 2.48049281314168,
+        "Notification delay (days)": 0.0,
+        "Region / district": 7,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 32.1697467488022,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "TURISMO"
+      },
+      "fraud_probability": 0.00417323736473918,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-000927",
+      "selector_label": "CLM-000927",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.249144421629021,
+        "Notification delay (days)": 0.0164271047227926,
+        "Region / district": 6,
+        "Policyholder customer tier": "Plata Plus",
+        "Driver age": 27.6002737850787,
+        "Payment method": "SEMESTRAL DOMICILIADO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.00417315261438489,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-058852",
+      "selector_label": "CLM-058852",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 0.870636550308008,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 67,
+        "Policyholder customer tier": "Oro",
+        "Driver age": 17.7932922655715,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "CICLOMOTORES"
+      },
+      "fraud_probability": 0.0041726864874362946,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-061030",
+      "selector_label": "CLM-061030",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 6.2258726899384,
+        "Notification delay (days)": 0.175222450376454,
+        "Region / district": 2,
+        "Policyholder customer tier": "Oro Plus",
+        "Driver age": 53.615331964408,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TRACTO-CAMIONES"
+      },
+      "fraud_probability": 0.004172245040535927,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-097685",
+      "selector_label": "CLM-097685",
+      "summary": {
+        "Coverage type": "ASITUR KILOMETRO 0",
+        "Grouped coverage type": "ASISTENCIA",
+        "Policy tenure (days)": 0.0136892539356605,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Bronce B",
+        "Driver age": 51.832991101985,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "COMERCIAL DERIVADO DE TURISMO"
+      },
+      "fraud_probability": 0.004172090440988541,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-091379",
+      "selector_label": "CLM-091379",
+      "summary": {
+        "Coverage type": "OBLIGATORIO",
+        "Grouped coverage type": "OBLIGATORIO_RC",
+        "Policy tenure (days)": 7.64681724845996,
+        "Notification delay (days)": 0.0219028062970568,
+        "Region / district": 3,
+        "Policyholder customer tier": "Bronce A",
+        "Driver age": 50.113620807666,
+        "Payment method": "ANUAL EFECTIVO",
+        "Vehicle type": "TODO  TERRENO CONVENCIONAL"
+      },
+      "fraud_probability": 0.004172027111053467,
+      "flagged": false
+    },
+    {
+      "claim_id": "CLM-000011",
+      "selector_label": "CLM-000011",
+      "summary": {
+        "Coverage type": "ASITUR KILOMETRO 0",
+        "Grouped coverage type": "ASISTENCIA",
+        "Policy tenure (days)": 1.87268993839836,
+        "Notification delay (days)": 0.0027378507871321,
+        "Region / district": 76,
+        "Policyholder customer tier": "Plata",
+        "Driver age": 71.7371663244353,
+        "Payment method": "ANUAL DOMICILIADO",
+        "Vehicle type": "FURGONES HABILIT. A PASAJEROS"
+      },
+      "fraud_probability": 0.0005089121987111866,
+      "flagged": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+UPLOAD THE CONTENTS OF THIS FOLDER TO THE ROOT OF A NEW GITHUB REPOSITORY.
+
+Streamlit settings:
+  Branch: main
+  Main file path: prototype_phase12/app.py
+  Python version: 3.12
+
+No secrets are required.
+
+After deployment, test the streamlit.app link on a phone using mobile data.
+Use that final streamlit.app link when generating the poster QR code.

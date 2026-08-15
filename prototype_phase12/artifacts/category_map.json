@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "source": "training data categorical levels",
+  "categories": {
+    "garantia": [
+      "ACCIDENTES - MOTOS",
+      "ASISTENCIA CAMIONES",
+      "ASITUR CLASS",
+      "ASITUR KILOMETRO 0",
+      "ATROPELLO ANIMALES CINEGETICOS-DOMESTIC",
+      "CARNÉ POR PUNTOS",
+      "CONDUCTOR",
+      "CRISTALES 360.61",
+      "CRISTALES 480.81",
+      "CRISTALES 721.21",
+      "DAÑOS COLISION",
+      "DAÑOS PROPIOS",
+      "DEFENSA-R.MULTAS",
+      "F.METEOROLOGICOS",
+      "INCENDIO",
+      "INCENDIOS",
+      "LUNAS",
+      "LUNAS + PANORAMICO 1200 Eur.",
+      "LUNAS 721.21",
+      "LUNAS 900 Eur.",
+      "OBLIGATORIO",
+      "OCUPANTE-CICLOMOTOR",
+      "PERDIDA TOTAL",
+      "R.DAÑOS",
+      "ROBO",
+      "VIASEGUR"
+    ],
+    "subramo": [
+      "CAMIONES Y FURGONES PESADOS (MAS DE 3.5TN)",
+      "CICLOMOTOR",
+      "COMERCIALES (MENOS DE 3.5TN)",
+      "MOTOCICLETA",
+      "REMOLQUES",
+      "TURISMO, MONOVOLUMEN, TODOTERRENO, CUADRICICLOS",
+      "VEHICULOS AGRICOLAS",
+      "VEHICULOS INDUSTRIALES"
+    ],
+    "formapago": [
+      "ANUAL DOMICILIADO",
+      "ANUAL EFECTIVO",
+      "SEMESTRAL 1ER PAGO EFECTIVO",
+      "SEMESTRAL DOMICILIADO",
+      "SEMESTRAL EFECTIVO",
+      "TRIMESTRAL DOMICILIADO"
+    ],
+    "garantiaasistencia": [
+      "ASISTENCIA CAMIONES",
+      "ASISTENCIA REMOLQUE",
+      "ASITUR CLASS",
+      "ASITUR CLASS PREM",
+      "ASITUR KILOMETRO 0"
+    ],
+    "categoria": [
+      "2",
+      "3",
+      "PRIMERA"
+    ],
+    "tipo": [
+      "AUTOCARES Y AUTOBUSES",
+      "CAMIONES MAS DE 3,5 TN DE PMA",
+      "CICLOMOTORES",
+      "COMERCIAL DERIVADO DE TT",
+      "COMERCIAL DERIVADO DE TURISMO",
+      "FURGONES HABILIT. A PASAJEROS",
+      "FURGONES PESADOS",
+      "FURGONES Y CAMIONES LIGEROS",
+      "MONOVOLUMEN",
+      "MOTOCICLETAS",
+      "TODO  TERRENO CONVENCIONAL",
+      "TRACTO-CAMIONES",
+      "TURISMO",
+      "VEHÍCULOS AGRÍCOLAS",
+      "VEHÍCULOS INDUSTRIALES"
+    ],
+    "motor": [
+      "B",
+      "D",
+      "E",
+      "G",
+      "L",
+      "P",
+      "R",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "scoring": [
+      "Grupo AVANZA",
+      "Grupo EXPANDE",
+      "Grupo INICIA",
+      "Grupo OPTIMA",
+      "Grupo OPTIMA PLUS",
+      "Grupo PROYECTA"
+    ],
+    "canalnombre": [
+      "AGTES.EXCLUSIVOS",
+      "AGTES.VINCULADOS",
+      "CORREDORES",
+      "EMPLEADOS",
+      "OFIC.ENTIDAD"
+    ],
+    "zona": [
+      "AGENCIA ELCHE",
+      "AGENCIA NOVELDA",
+      "ALBACETE",
+      "ALICANTE",
+      "ANDALUCIA NORTE",
+      "ANDALUCIA OCCIDENTAL",
+      "ANDALUCIA ORIENTAL",
+      "ARAGON",
+      "BALEARES Y TARRAGONA",
+      "CARTAGENA",
+      "CASTELLON",
+      "DENIA",
+      "ELDA",
+      "EMPLEADOS",
+      "EXTREMADURA",
+      "GANDIA",
+      "VALENCIA",
+      "VARIOS / OTROS",
+      "ZONA ALCOY"
+    ],
+    "tipocliente": [
+      "CIF",
+      "DNI",
+      "NIE"
+    ],
+    "tomadorcategoriacarnet": [
+      "A",
+      "A1",
+      "A2",
+      "B",
+      "B1",
+      "B2",
+      "C1",
+      "C2",
+      "D1",
+      "D2",
+      "E",
+      "L",
+      "LC"
+    ],
+    "tomadornivel": [
+      "Bronce A",
+      "Bronce B",
+      "Bronce C",
+      "Bronce D",
+      "Bronce Plus",
+      "Nuevo",
+      "Nuevo Plus",
+      "Oro",
+      "Oro Plus",
+      "Plata",
+      "Plata Plus"
+    ],
+    "tomadorexperian": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "sexo": [
+      "0",
+      "a",
+      "f",
+      "m"
+    ],
+    "tipodocumento": [
+      "CIF",
+      "DNI/NIE"
+    ],
+    "garantia_agrupada": [
+      "ASISTENCIA",
+      "ATROPELLO ANIMALES",
+      "DAÑOS PROPIOS",
+      "F.METEOROLOGICOS",
+      "INCENDIO",
+      "LUNAS",
+      "MULTAS",
+      "OBLIGATORIO_RC",
+      "ROBO",
+      "VIAJEROS"
+    ],
+    "formapago_agrupado": [
+      "DOMICILIADO",
+      "EFECTIVO"
+    ]
+  }
+}
