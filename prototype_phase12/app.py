@@ -4,6 +4,7 @@ import html
 import io
 import json
 import re
+import sys
 from pathlib import Path
 from textwrap import dedent
 from typing import Any, Iterable
@@ -12,6 +13,15 @@ from uuid import uuid4
 
 import pandas as pd
 import streamlit as st
+
+
+# Streamlit Community Cloud launches the entrypoint from a generated source
+# directory. Add the repository root explicitly so the package import works
+# consistently in the cloud, locally, and in Streamlit's test runner.
+PACKAGE_ROOT = Path(__file__).resolve().parent
+REPOSITORY_ROOT = PACKAGE_ROOT.parent
+if str(REPOSITORY_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPOSITORY_ROOT))
 
 from prototype_phase12.backend import (
     REVIEW_STATUSES,
@@ -29,7 +39,7 @@ from prototype_phase12.backend import (
 )
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = PACKAGE_ROOT
 ARTIFACT_DIR = ROOT / "artifacts"
 RUNTIME_DIR = ROOT / "runtime"
 STYLE_PATH = ROOT / "styles.css"
