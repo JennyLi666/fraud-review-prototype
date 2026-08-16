@@ -1243,9 +1243,16 @@ label {
   font-variant-numeric: tabular-nums;
 }
 
+.queue-scroll-hint {
+  display: none;
+}
+
 .queue-table-shell {
   max-height: 585px;
   overflow: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-x pan-y;
   border: 1px solid var(--line);
   border-radius: 14px;
   background: var(--surface);
@@ -2146,11 +2153,18 @@ label {
 
   .queue-table-shell {
     max-height: 520px;
-    overflow-x: hidden;
+    overflow-x: auto;
+    overflow-y: auto;
+    scrollbar-width: auto;
+    scrollbar-gutter: stable;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x pan-y;
   }
 
   .queue-table {
-    min-width: 100%;
+    width: 660px;
+    min-width: 660px;
     table-layout: fixed;
     font-size: 0.76rem;
   }
@@ -2162,10 +2176,10 @@ label {
   }
 
   .queue-table th:nth-child(1) { width: 44px; }
-  .queue-table th:nth-child(2) { width: 94px; }
-  .queue-table th:nth-child(3) { width: 128px; }
-  .queue-table th:nth-child(4) { width: 82px; }
-  .queue-table th:nth-child(7) { width: 98px; }
+  .queue-table th:nth-child(2) { width: 110px; }
+  .queue-table th:nth-child(3) { width: 250px; }
+  .queue-table th:nth-child(4) { width: 130px; }
+  .queue-table th:nth-child(7) { width: 126px; }
 
   .queue-table th:nth-child(5),
   .queue-table td:nth-child(5),
@@ -2175,7 +2189,33 @@ label {
   }
 
   .queue-action {
-    position: static;
+    position: sticky;
+    right: 0;
+    box-shadow: -1px 0 0 var(--line);
+  }
+
+  .queue-customer {
+    overflow: visible;
+    line-height: 1.35;
+    text-overflow: clip;
+    white-space: normal;
+  }
+
+  .queue-table td {
+    height: auto;
+    min-height: 48px;
+    padding-top: 0.65rem;
+    padding-bottom: 0.65rem;
+  }
+
+  .queue-scroll-hint {
+    display: flex;
+    align-items: center;
+    min-height: 32px;
+    margin-bottom: 0.45rem;
+    color: var(--muted);
+    font-size: 0.76rem;
+    font-weight: 600;
   }
 
   .block-container,

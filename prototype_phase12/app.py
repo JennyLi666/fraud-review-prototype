@@ -1008,7 +1008,8 @@ def render_queue_table(display: pd.DataFrame) -> None:
     st.markdown(
         dedent(
             f"""
-            <div class="queue-table-shell">
+            <div class="queue-scroll-hint">Swipe horizontally to view all columns</div>
+            <div class="queue-table-shell" role="region" aria-label="Review queue table; swipe horizontally to view all columns" tabindex="0">
               <table class="queue-table">
                 <caption>Cases selected for investigation</caption>
                 <thead><tr>
