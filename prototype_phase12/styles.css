@@ -149,7 +149,7 @@ footer {
 [data-testid="stSidebar"] [role="radiogroup"] label:hover {
   background: rgba(29, 155, 240, 0.2);
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 700 !important;
 }
 
 [data-testid="stSidebar"] [role="radiogroup"] label:has(input:checked) {
